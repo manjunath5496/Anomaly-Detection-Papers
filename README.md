@@ -64,7 +64,7 @@ Rare-Category Detection</a></li>
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Anomaly-Detection-Papers/blob/master/ane(33).pdf" style="text-decoration:none;">A survey of anomaly detection techniques in financial domain</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Anomaly-Detection-Papers/blob/master/ane(34).pdf" style="text-decoration:none;">Non-Autoregressive Neural Machine Translation</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Anomaly-Detection-Papers/blob/master/ane(34).pdf" style="text-decoration:none;">Reverse Nearest Neighbors in Unsupervised Distance-Based Outlier Detection</a></li> 
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Anomaly-Detection-Papers/blob/master/ane(35).pdf" style="text-decoration:none;">Outlier Detection with Autoencoder Ensembles</a></li> 
 
